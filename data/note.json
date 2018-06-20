@@ -1,0 +1,106 @@
+{
+  "slide1": [
+    "NOM/Prénom/Métier",
+    "Historique de cette dernière année",
+    "Mentionner Twitter"
+  ],
+  "slide2": [
+    "Aborder le futur du CSS",
+    "Commencer par la présentation du comité qui draft",
+    "Ensuite, on va revoir les dernières nouveautés déjà accessible ",
+    "On enchainera sur les nouveautés qui sont susceptible d’arriver",
+    "Pour finir sur la prochaine révolution, Houdini",
+    "Objectif: Scope large de fonctionnalité, pour que vous ayez connaissance de ce qui arrive. Histoire d’approfondir ce qui vous intéresse"
+  ],
+  "slide3": [
+    "World Wide Web Consortium",
+    "Organisme de standardisation à but non lucratif chargé de promouvoir la compatibilité des technologies"
+  ],
+  "slide4": [
+    "Tim, principal inventeur du World Wide Web",
+    "Ainsi que HTML5, PNG, SVG, XML",
+    "383 entreprises partenaires en 2013"
+  ],
+  "slide5": [
+    "Le standard est publié pour une revue par la communauté",
+    "Plus solide, le but de la recommandation candidate est de tester la faisabilité de sa mise en œuvre.",
+    "Standard figé et soumis au conseil",
+    "Le standard est soutenu par le W3C"
+  ],
+  "slide6": [
+    "Je vous propose de revoir ensemble les dernières grosses nouveautés déjà accessible de ces dernières années"
+  ],
+  "slide10": [
+    "Révolutionner notre façon de créer des interfaces web",
+    "Embarque énormément de propriétés pour nous permettre une grande flexibilité",
+    "Prise en charge totale (SAUF IE)"
+  ],
+  "slide12": [
+    "Prise en charge totale"
+  ],
+  "slide13": [
+    "Prise en charge totale"
+  ],
+  "slide14": [
+    "Prise en charge totale"
+  ],
+  "slide16": [
+    "Je vous propose maintenant de se focaliser sur l’avenir. J’ai fouillé pour vous les drafts de la W3C pour déceler les prochaines fonctionnalités susceptibles d’arriver, elles sont soit standardisées, soit en cours de standardisation."
+  ],
+  "slide17": [
+    "La fonction filtre appliqué directement au image que l’on charge avec url()",
+    "Les mêmes filtres: Opacité, le niveau de gris, contraste, flou, luminosité etc...",
+    "Moi qui déteste ouvrir la suite Adobe, je suis comblé",
+    "Possibilitée de créer ses propres filtres SVG et de les appliquer à une image avec url()",
+    "Fonctionne actuellement sur Safari"
+  ],
+  "slide18": [
+    "Révolution des carousel et des outils de présentation web",
+    "Permet de définir des points d'accroche pour le scroll, un petit coup de slide et vous arrivez à chaque fois sur le prochain point"
+  ],
+  "slide19": [
+    "Lire définition",
+    "Les PC sont classés par niveau, actuellement on utilise déjà tous les pseudo-classes de niveau 3 comme nth-child, target, root, enabled",
+    "Les pseudo-classes 4 arrivent, ils sont draftés et je vous propose qu’on en découvre ensemble",
+    "La majorité d’entre-eux sont encore inutilisables mais ils s'implantent doucement "
+  ],
+  "slide20": [
+    "Tous les sections qui ont un élément .classA ou .classB en fils",
+    "Tous les .header qui ont un frère adjacent span"
+  ],
+  "slide23": [
+    "Par ensemble, un input avec l’attribut checked dans un formulaire"
+  ],
+  "slide24": [
+    "Pour un input avec min et max, très pratique pour l’UX"
+  ],
+  "slide28": [
+    "Maintenant qu’on a vu quelques nouvelles fonctions et une liste des prochains sélecteurs qui débarqueront dans nos CSS, j’aimerai vous présenter ce qui est, pour moi, la prochaine révolution du CSS, celle qui va briser les frontières et tout changer de notre utilisation du langage"
+  ],
+  "slide30": [
+    "Le projet Houdini est un groupe de travail composé de ..",
+    "Utilise JavaScript",
+    "Ça a donné naissance à une collection de brouillons qui ont tous pour unique but de modifier le moteur de rendu CSS"
+  ],
+  "slide31": [
+    "Créer son propre display !",
+    "Parler du display Masonry: Il fonctionne en plaçant les éléments dans une position optimale en fonction de l'espace vertical disponible",
+    "Imaginez un peu la puissance de l’API, ça va apporter une richesse des interfaces"
+  ],
+  "slide32": [
+    "Finit l’ancien modèle d’objet pour manipuler le CSS, le CSSOM, place maintenant au Typed OM"
+  ],
+  "slide35": [
+    "Ajoute des types, des méthodes et un modèle d'objet approprié aux valeurs CSS.",
+    "Le modèle utilise l’objet Map",
+    "Moins de bug dut à un meilleur typage",
+    "Opération arithmétique et conversion d’unité",
+    "Plus de prise de tête sur la façon d’écrire les propriétés (camelCase ou strings), toutes les propriétés seront des strings now",
+    "Meilleure performance"
+  ],
+  "slide38": [
+    "Permettra, entre autres, de créer de nouvelles unités de taille",
+    "Permettra de créer des animations de type scroll ou des animations complexes",
+    "Permettra de récupérer les informations de taille de police du document selon un contexte donné (Quelle taille va prendre mon texte avec une police donnée, une taille donnée, un contexte donné)."
+  ]
+}
